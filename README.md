@@ -11,14 +11,14 @@ This script is made thanks to [Project Sloth's Script](https://github.com/Projec
 
 # Screenshots
 
-### ‎ ‎ Groups Page
+### Groups Page
 
 ![Groups Page](https://r2.fivemanage.com/ngdTgLtsPcWttgwAMACiI/image/Groups2.png)
 
-### ‎ ‎ Groups Members
+### Groups Members
 
 ![Groups Members](https://r2.fivemanage.com/ngdTgLtsPcWttgwAMACiI/image/Groups3.png)
 
-### ‎ ‎ Pending Requests
+### Pending Requests
 
 ![Pending Requests](https://r2.fivemanage.com/ngdTgLtsPcWttgwAMACiI/image/Groups4.png)
